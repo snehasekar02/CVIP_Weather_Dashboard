@@ -1,0 +1,33 @@
+
+*{
+    margin-top: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('pink.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+.weather-report {
+    text-align: center;
+    margin: 0 auto;
+}
+
